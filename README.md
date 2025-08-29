@@ -7,8 +7,8 @@ A modern, visually engaging memory matching game built with React, Vite, Tailwin
 > ### 🎮 [**Play the Live Demo Here!**](https://tubular-ganache-074e32.netlify.app/)
 
 <br/>
-![demo_gif](https://github.com/user-attachments/assets/f7dfca57-052c-477a-8f6d-48e53c78b377)
 
+![demo_gif](https://github.com/user-attachments/assets/ee9896c1-c244-46fd-a7e3-388b1f377dc3)
 
 ---
 
