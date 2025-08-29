@@ -7,13 +7,12 @@ A modern, visually engaging memory matching game built with React, Vite, Tailwin
 > ### 🎮 [**Play the Live Demo Here!**](https://tubular-ganache-074e32.netlify.app/)
 
 <br/>
-![MemoGlyph Gameplay](/MemoGame/demo_gif.gif)
-*(To create a GIF like this, you can use a tool like Giphy Capture or ScreenToGif)*
+![demo_gif](https://github.com/user-attachments/assets/f68825e4-1db7-403d-922d-44d26e332bd2)
 
 
 ---
 
-## ## ✨ Features
+## ✨ Features
 
 * **🧠 Classic Memory Gameplay:** Flip cards to find all matching pairs.
 * **✨ Rich Animations:** Powered by Framer Motion for a fluid experience, featuring:
@@ -28,7 +27,7 @@ A modern, visually engaging memory matching game built with React, Vite, Tailwin
 
 ---
 
-## ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 This project leverages a modern frontend technology stack:
 
@@ -39,17 +38,17 @@ This project leverages a modern frontend technology stack:
 
 ---
 
-## ## 🚀 Getting Started
+## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
-### ### Prerequisites
+### Prerequisites
 
 Make sure you have Node.js (version 16 or higher) and npm installed on your machine.
 
 * You can download Node.js [here](https://nodejs.org/).
 
-### ### Installation & Setup
+### Installation & Setup
 
 1.  **Clone the repository:**
     ```sh
